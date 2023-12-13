@@ -1,0 +1,14 @@
+nav{display: flex;justify-content: space-around;
+    background-color:blue ;}
+nav a{text-decoration: dotted;font-size:30px;color: white;
+font-weight: 900;
+padding-top:15px;}
+
+main{text-align:center;font-size: 30px;}
+p{text-align: left;}
+footer{background-color: hsl(189, 25%, 65%); padding:5px;height: 100px;}
+footer p{font-weight: 700;display: inline;}
+.car{width: 35px;height: 35px;}  
+
+body{margin-top:0;
+margin-left:0; margin-right:0;}
